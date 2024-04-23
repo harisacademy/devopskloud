@@ -83,7 +83,8 @@ define( 'WP_DEBUG', false );
 
 /* Add any custom values between this line and the "stop editing" line. */
 
-
+define('WP_HOME','http://3.223.49.103');
+define('WP_SITEURL','http://3.223.49.103');
 
 /* That's all, stop editing! Happy publishing. */
 
